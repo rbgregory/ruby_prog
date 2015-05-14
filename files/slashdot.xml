@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, DHI Group Inc. All Rights Reserved. Slashdot is a DHI service</dc:rights>
+<dc:date>2015-05-10T20:45:15+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/10/1925217/the-challenge-of-web-hosting-once-youre-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/10/1922218/how-to-set-up-a-pirate-ebook-store-in-google-play-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/05/10/1829231/examining-costs-and-prices-for-californias-high-speed-rail-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/10/1644222/prison-messaging-system-jpay-withdraws-copyright-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/10/1519210/researchers-discover-breakthrough-drug-delivery-method-by-changing-shape-of-pill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/05/10/1349201/ask-slashdot-how-to-own-the-rights-to-software-developed-at-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/05/10/1345232/poker-pros-win-against-ai-but-experts-peg-match-as-statistical-draw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://politics.slashdot.org/story/15/05/10/0459241/fwdus-to-laid-off-southern-california-edison-workers-boo-hoo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/10/0936213/enterprise-ssds-powered-off-potentially-lose-data-in-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/10/0553244/messenger-data-says-mercurys-magnetic-past-goes-back-billions-of-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://slashdot.org/story/15/05/10/0133218/photobucket-hackers-nabbed-face-serious-charges-from-us-authorities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/05/10/0120222/transformer-explosion-closes-nuclear-plant-unit-north-of-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/05/09/2330249/texas-regulators-crack-down-on-app-driven-hauling-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/05/09/229228/who-declares-liberian-ebola-outbreak-over?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://ask.slashdot.org/story/15/05/09/2036259/ask-slashdot-moving-to-an-offshore-proof-career?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://yro.slashdot.org/story/15/05/10/1925217/the-challenge-of-web-hosting-once-youre-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The Challenge of Web Hosting Once You're Dead</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/7I8XXMPdEOc/the-challenge-of-web-hosting-once-youre-dead</link>
+<description>reifman writes: Hosting a website (even WordPress) after your death has a variety of unexpected complexities, from renewing your domain name, to hosting, security, monitoring, troubleshooting and more. It's a gaping hole that we as technologists should start thinking more about &amp;mdash; especially because all of us are going to die, some of us unexpectedly sooner than we'd like or planned for. The only real solution I found was to share credentials and designate funds to descendants &amp;mdash; you've done this, right?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+Challenge+of+Web+Hosting+Once+You're+Dead%3A+http%3A%2F%2Fbit.ly%2F1GXQ7W2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F10%2F1925217%2Fthe-challenge-of-web-hosting-once-youre-dead%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/10/1925217/the-challenge-of-web-hosting-once-youre-dead?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/10/1925217/the-challenge-of-web-hosting-once-youre-dead?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7395371&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/7I8XXMPdEOc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T20:17:00+00:00</dc:date>
+<dc:subject>privacy</dc:subject>
+<slash:department>can-I-have-your-watch-after-you-fight-el-guapo?</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>17</slash:comments>
+<slash:hit_parade>17,17,12,10,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/10/1925217/the-challenge-of-web-hosting-once-youre-dead?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/10/1922218/how-to-set-up-a-pirate-ebook-store-in-google-play-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How To Set Up a Pirate EBook Store In Google Play Books</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fy1RyfKXQLs/how-to-set-up-a-pirate-ebook-store-in-google-play-books</link>
+<description>Nate the greatest writes: Most ebook pirates simply upload ebooks to a one of many pirate sites, but the entrepreneurial ones have opened storefronts in Google Play Books. They invent an author's name, and then upload dozens if not hundreds of pirated ebooks under that name, The names can range from Devad Akbak to Ispanyolca, but the really clever pirates choose a legit sounding name like Bestsellers &amp;mdash; Books USA Press or Fort Press and then start selling ebooks. 
+
+Thanks to Google's indifference, the pirates can continue to sell ebooks no matter how many times copyright holders might complain. If Google takes a pirated ebook down in response to a DMCA notice, the pirates simply upload another copy of the same title.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+To+Set+Up+a+Pirate+EBook+Store+In+Google+Play+Books%3A+http%3A%2F%2Fbit.ly%2F1Fe6WRA"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F10%2F1922218%2Fhow-to-set-up-a-pirate-ebook-store-in-google-play-books%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/10/1922218/how-to-set-up-a-pirate-ebook-store-in-google-play-books?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/10/1922218/how-to-set-up-a-pirate-ebook-store-in-google-play-books?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7395363&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fy1RyfKXQLs" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T19:23:00+00:00</dc:date>
+<dc:subject>piracy</dc:subject>
+<slash:department>pirate-business-plan</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,15,13,7,4,2</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/10/1922218/how-to-set-up-a-pirate-ebook-store-in-google-play-books?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/05/10/1829231/examining-costs-and-prices-for-californias-high-speed-rail-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Examining Costs and Prices For California's High-Speed Rail Project</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/91vPO0UpT1M/examining-costs-and-prices-for-californias-high-speed-rail-project</link>
+<description>The L.A. Times features a look at the contentious issue of a publicly funded high-speed rail system for travel within the state of California, which focuses especially on an obvious question: how much would it cost for passengers to ride? This isn't a straightforward answer, though, partly because the system isn't expected to be operational for another 13 years, and the estimates vary wildly for what would be a trip of more than 400 miles that touches on some of the U.S.'s most expensive real estate. From the Times' article:
+
+"The current $86 fare [for an L.A. to San Francisco ticket] is calculated in 2013 dollars based on a formula that prices tickets at 83% of average airline fares to help attract riders. The rail fare is an average that includes economy and premium seats, nonstop and multi-stop trains, as well as last-minute and advance purchase tickets. A premium, same-day nonstop bullet train trip would cost more than $86.
+
+But compared with current average prices on several high-speed rail systems in Asia and Europe, $86 would be a bargain, equating to about 20 cents a mile or less, the Times review found. The analysis was based on a 438-mile route in the mid-range of what state officials expect the final alignment to measure."
+
+How much would you be willing to pay to take a fast train between L.A. and San Francisco?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Examining+Costs+and+Prices+For+California's+High-Speed+Rail+Project%3A+http%3A%2F%2Fbit.ly%2F1Kyh9Gw"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F05%2F10%2F1829231%2Fexamining-costs-and-prices-for-californias-high-speed-rail-project%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/05/10/1829231/examining-costs-and-prices-for-californias-high-speed-rail-project?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/05/10/1829231/examining-costs-and-prices-for-californias-high-speed-rail-project?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7395285&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/91vPO0UpT1M" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T18:18:00+00:00</dc:date>
+<dc:subject>transportation</dc:subject>
+<slash:department>Now-How-Much-Would-You-Pay?</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>111</slash:comments>
+<slash:hit_parade>111,111,85,73,13,6,2</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/05/10/1829231/examining-costs-and-prices-for-californias-high-speed-rail-project?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/10/1644222/prison-messaging-system-jpay-withdraws-copyright-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Prison Messaging System JPay Withdraws Copyright Claims</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/jww_nyoK2wc/prison-messaging-system-jpay-withdraws-copyright-claims</link>
+<description>Florida-based JPay has a specialized business model and an audience that is at least in part a (literally) captive one: the company specializes in logistics and communications services involving prisons and prisoners, ranging from payment services to logistics to electronic communications with prisoners. Now, via Cory Doctorow at Boing Boing comes a report from the EFF that the company has back-pedaled on a particularly strange aspect of the terms under which the company provided messaging services for prisoners: namely, JPay's terms of service made exhaustive copyright claims on messages sent by prisoners, claiming rights to "all content, whether it be text, images, or video" send via the service. That language has now been excised, but not in time to prevent at least one bad outcome; from the EFF's description: 
+[Valerie] Buford has been running a social media campaign to overturn her [brother, Leon Benson's] murder conviction. However, after Buford published a videogram that her brother recorded via JPay to Facebook, prison administrators cut off her access to the JPay system, sent Benson to solitary confinement, and stripped away some of his earned "good time." To justify the discipline, prison officials said they were enforcing JPay's intellectual property rights and terms of service.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Prison+Messaging+System+JPay+Withdraws+Copyright+Claims%3A+http%3A%2F%2Fbit.ly%2F1KVkQqu"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F10%2F1644222%2Fprison-messaging-system-jpay-withdraws-copyright-claims%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/10/1644222/prison-messaging-system-jpay-withdraws-copyright-claims?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/10/1644222/prison-messaging-system-jpay-withdraws-copyright-claims?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7395089&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/jww_nyoK2wc" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T16:43:00+00:00</dc:date>
+<dc:subject>eff</dc:subject>
+<slash:department>got-you-coming-and-going</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>66</slash:comments>
+<slash:hit_parade>66,65,35,29,9,4,1</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/10/1644222/prison-messaging-system-jpay-withdraws-copyright-claims?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/10/1519210/researchers-discover-breakthrough-drug-delivery-method-by-changing-shape-of-pill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Researchers Discover Breakthrough Drug Delivery Method By Changing Shape of Pill</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GdokyVIPsK0/researchers-discover-breakthrough-drug-delivery-method-by-changing-shape-of-pill</link>
+<description>ErnieKey writes: Researchers at the UCL School of Pharmacy, University College London have found a way to change the rate of dissolution within medication via a 3D printing method. Researchers used MakerBot's water- soluble filament, cut it into tiny pieces and mixed in acetaminophen. They then used the Filabot extruder to extrude a drug infused filament. With this filament they printed odd shaped pills and tested them to see what effect different shapes had on the speed at which they dissolved. What they concluded was that these odd shaped pills allowed for different rates of absorption, enabling custom medications for patients.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers+Discover+Breakthrough+Drug+Delivery+Method+By+Changing+Shape+of+Pill%3A+http%3A%2F%2Fbit.ly%2F1J2sa4E"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F10%2F1519210%2Fresearchers-discover-breakthrough-drug-delivery-method-by-changing-shape-of-pill%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/10/1519210/researchers-discover-breakthrough-drug-delivery-method-by-changing-shape-of-pill?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/10/1519210/researchers-discover-breakthrough-drug-delivery-method-by-changing-shape-of-pill?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7394973&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/GdokyVIPsK0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T15:35:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>in-your-face</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>35</slash:comments>
+<slash:hit_parade>35,33,26,19,8,6,4</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/10/1519210/researchers-discover-breakthrough-drug-delivery-method-by-changing-shape-of-pill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/05/10/1349201/ask-slashdot-how-to-own-the-rights-to-software-developed-at-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: How To Own the Rights To Software Developed At Work?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/1_s-MrOEGVQ/ask-slashdot-how-to-own-the-rights-to-software-developed-at-work</link>
+<description>New submitter ToneyTime writes: I'm a young developer building custom add ins for my companies chosen SAAS platform as a full time staff member. The platform supports a developer community to share code and plug-ins with an option to sell the code. While I don't plan on having a breakthrough app, I am interested in sharing the solutions I create with the hopefully potential of selling. All solutions are created and made by me for the business needs and aim to keep any company specific data out. I have a good relationship with management and can develop on my own personal instance of the platform, but would be doing so on company time. Going contractor is a bit premature for me at this stage. Any advice, references or stories to learn from?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+How+To+Own+the+Rights+To+Software+Developed+At+Work%3F%3A+http%3A%2F%2Fbit.ly%2F1FXbc6G"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F05%2F10%2F1349201%2Fask-slashdot-how-to-own-the-rights-to-software-developed-at-work%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/05/10/1349201/ask-slashdot-how-to-own-the-rights-to-software-developed-at-work?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/05/10/1349201/ask-slashdot-how-to-own-the-rights-to-software-developed-at-work?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7394835&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/1_s-MrOEGVQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T14:32:00+00:00</dc:date>
+<dc:subject>programming</dc:subject>
+<slash:department>you-can-ask-now-or-cry-later</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>219</slash:comments>
+<slash:hit_parade>219,218,155,135,21,11,9</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/05/10/1349201/ask-slashdot-how-to-own-the-rights-to-software-developed-at-work?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/05/10/1345232/poker-pros-win-against-ai-but-experts-peg-match-as-statistical-draw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Poker Pros Win Against AI, But Experts Peg Match As Statistical Draw</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/zPVfifIhmhI/poker-pros-win-against-ai-but-experts-peg-match-as-statistical-draw</link>
+<description>hypnosec writes with some positive news for Skynet watchers, in that humans still have at least a slight lead against the AIs who might one day imprison us in energy-harvesting goo tanks, or at least beating us in Las Vegas. The two-day poker showdown involving four of the world's top (human) players and a Carnegie Mellon University AI program called Claudico saw the professionals win, after several days of heads-up no-limit Texas Hold'em. "Despite the win, the poker players' $732,713 collective lead over Claudico wasn't quite large enough to attain statistical significance, experts have said. This means that the results can't be accepted as scientifically reliable thereby indicating that the "Brains Vs. Artificial Intelligence" competition effectively ended in a statistical tie." On the other hand, the computers sure got over what looked like a rout by the humans.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Poker+Pros+Win+Against+AI%2C+But+Experts+Peg+Match+As+Statistical+Draw%3A+http%3A%2F%2Fbit.ly%2F1KV8LSe"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F05%2F10%2F1345232%2Fpoker-pros-win-against-ai-but-experts-peg-match-as-statistical-draw%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/05/10/1345232/poker-pros-win-against-ai-but-experts-peg-match-as-statistical-draw?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/05/10/1345232/poker-pros-win-against-ai-but-experts-peg-match-as-statistical-draw?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7394825&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/zPVfifIhmhI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T13:33:00+00:00</dc:date>
+<dc:subject>stats</dc:subject>
+<slash:department>at-this-rate-they-win-next-year</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>42</slash:comments>
+<slash:hit_parade>42,41,26,20,3,0,0</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/05/10/1345232/poker-pros-win-against-ai-but-experts-peg-match-as-statistical-draw?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://politics.slashdot.org/story/15/05/10/0459241/fwdus-to-laid-off-southern-california-edison-workers-boo-hoo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>FWD.us To Laid-Off Southern California Edison Workers: Boo-Hoo</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fNPD8FicXt0/fwdus-to-laid-off-southern-california-edison-workers-boo-hoo</link>
+<description>theodp writes: Speaking at a National Journal LIVE event that was sponsored by Mark Zuckerberg's FWD.us and Laurene Powell Jobs' Emerson Collective, FWD.us "Major Contributor" Lars Dalgaard was asked about the fate of 500 laid-off Southern California Edison IT workers, whose forced training of their H-1B worker replacements from offshore outsourcing companies sparked a bipartisan Senate investigation. "If you want the job, make yourself able to get the job," quipped an unsympathetic Dalgaard (YouTube). "Nobody's going to hold you up and carry you around...If you're not going to work hard enough to be qualified to get the job...well then, you don't deserve the job." "That might be harsh," remarked interviewer Niharika Acharya. Turning to co-interviewee Pierre-Jean Cobut, FWD.us's poster child for increasing the H-1B visa cap, Acharya asked, "Do you agree with him?" "Actually, I do," replied PJ, drawing laughs from the crowd.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=FWD.us+To+Laid-Off+Southern+California+Edison+Workers%3A+Boo-Hoo%3A+http%3A%2F%2Fbit.ly%2F1HalWQC"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fpolitics.slashdot.org%2Fstory%2F15%2F05%2F10%2F0459241%2Ffwdus-to-laid-off-southern-california-edison-workers-boo-hoo%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://politics.slashdot.org/story/15/05/10/0459241/fwdus-to-laid-off-southern-california-edison-workers-boo-hoo?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://politics.slashdot.org/story/15/05/10/0459241/fwdus-to-laid-off-southern-california-edison-workers-boo-hoo?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7394083&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/fNPD8FicXt0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T12:27:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>versus-what-alternative-exactly?</slash:department>
+<slash:section>politics</slash:section>
+<slash:comments>349</slash:comments>
+<slash:hit_parade>349,339,223,202,52,42,30</slash:hit_parade>
+<feedburner:origLink>http://politics.slashdot.org/story/15/05/10/0459241/fwdus-to-laid-off-southern-california-edison-workers-boo-hoo?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/10/0936213/enterprise-ssds-powered-off-potentially-lose-data-in-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Enterprise SSDs, Powered Off, Potentially Lose Data In a Week</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/w3TqMAq41Ws/enterprise-ssds-powered-off-potentially-lose-data-in-a-week</link>
+<description>New submitter Mal-2 writes with a selection from IB Times of special interest for anyone replacing hard disks with solid state drives:
+
+The standards body for the microelectronics industry has found that Solid State Drives (SSD) can start to lose their data and become corrupted if they are left without power for as little as a week. ... According to a recent presentation (PDF) by Seagate's Alvin Cox, who is also chairman of the Joint Electron Device Engineering Council (JEDEC), the period of time that data will be retained on an SSD is halved for every 5 degrees Celsius (9 degrees Fahrenheit) rise in temperature in the area where the SSD is stored. If you have switched to SSD for either personal or business use, do you follow the recommendation here that spinning-disk media be used as backup as well?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Enterprise+SSDs%2C+Powered+Off%2C+Potentially+Lose+Data+In+a+Week%3A+http%3A%2F%2Fbit.ly%2F1RqVEfT"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F10%2F0936213%2Fenterprise-ssds-powered-off-potentially-lose-data-in-a-week%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/10/0936213/enterprise-ssds-powered-off-potentially-lose-data-in-a-week?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/10/0936213/enterprise-ssds-powered-off-potentially-lose-data-in-a-week?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7394503&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/w3TqMAq41Ws" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T10:00:00+00:00</dc:date>
+<dc:subject>storage</dc:subject>
+<slash:department>other-side-of-solid-state's-speed</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>110</slash:comments>
+<slash:hit_parade>110,109,81,66,22,9,6</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/10/0936213/enterprise-ssds-powered-off-potentially-lose-data-in-a-week?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/10/0553244/messenger-data-says-mercurys-magnetic-past-goes-back-billions-of-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Messenger Data Says Mercury's Magnetic Past Goes Back Billions of Years</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sJfXBUoyw-s/messenger-data-says-mercurys-magnetic-past-goes-back-billions-of-years</link>
+<description>Space.com notes a study published in the May 7th issue of Science (abstract) which concludes not only that Mercury has a magnetic history dating back billions of years, but also that the strength of that field means that it once rivaled Earth's own magnetic field, though it is now "about 100 times weaker." The source of this conclusion is data gathered prior to the crash of NASA's Messenger probe into Mercury's surface on April 30 of this year. Says the story:
+
+The researchers analyzed magnetic data collected by MESSENGER in the fall of 2014 and 2015, when the spacecraft flew incredibly close to the planet's surface, at altitudes as low as 9 miles (15 kilometers). In contrast, the lowest that MESSENGER flew in previous years was between 125 and 250 miles (200 and 400 km). ... The scientists detected magnetized rocks in a part of Mercury's crust that, due to the presence of many craters from cosmic impacts, appears to be quite ancient. The researchers suggest the rocks were once magnetized by the planet's magnetic field, and based on the age and amount of the magnetized rocks, as well as how strongly they were magnetized, the investigators deduced that Mercury's magnetic field has persisted for 3.8 billion years.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Messenger+Data+Says+Mercury's+Magnetic+Past+Goes+Back+Billions+of+Years%3A+http%3A%2F%2Fbit.ly%2F1IpYoro"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F10%2F0553244%2Fmessenger-data-says-mercurys-magnetic-past-goes-back-billions-of-years%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/10/0553244/messenger-data-says-mercurys-magnetic-past-goes-back-billions-of-years?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/10/0553244/messenger-data-says-mercurys-magnetic-past-goes-back-billions-of-years?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7394191&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/sJfXBUoyw-s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T07:06:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>do-you-have-receipts?</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,22,9,6,1,0,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/10/0553244/messenger-data-says-mercurys-magnetic-past-goes-back-billions-of-years?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://slashdot.org/story/15/05/10/0133218/photobucket-hackers-nabbed-face-serious-charges-from-us-authorities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Photobucket Hackers Nabbed, Face Serious Charges From US Authorities</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/LcvhGmlVXC8/photobucket-hackers-nabbed-face-serious-charges-from-us-authorities</link>
+<description>The U.S. Department of Justice said in a statement released Friday that two men, Brandon Bourret, and Athanasios Andrianakis, of Colorado Springs, Colorado
+and Sunnyvale, California, respectively, were arrested for their sale of software designed to breach the security of photo-sharing site Photobucket.com; their "Photofucket" app, says the linked Register report, was used "to plunder Photobucket's users' private and password-protected information, images and videos, it has been alleged ... The charge sheet against Bourret and Andrianakis details one count of conspiracy and one count of computer fraud, aid and abet &amp;ndash; both of which carry a maximum prison sentence of five years and a fine of up to $250,000.
+In addition, the men stand accused of two counts of access device fraud, which carries a higher prison sentence of up to 10 years and a fine of up to a quarter of a million dollars, per count." The indictment, filed in Federal District Court in Colorado, is far easier to read than many.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Photobucket+Hackers+Nabbed%2C+Face+Serious+Charges+From+US+Authorities%3A+http%3A%2F%2Fbit.ly%2F1J0XjW9"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fslashdot.org%2Fstory%2F15%2F05%2F10%2F0133218%2Fphotobucket-hackers-nabbed-face-serious-charges-from-us-authorities%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://slashdot.org/story/15/05/10/0133218/photobucket-hackers-nabbed-face-serious-charges-from-us-authorities?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://slashdot.org/story/15/05/10/0133218/photobucket-hackers-nabbed-face-serious-charges-from-us-authorities?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7393861&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/LcvhGmlVXC8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T04:20:00+00:00</dc:date>
+<dc:subject>cloud</dc:subject>
+<slash:department>until-somebody-loses-an-eye</slash:department>
+<slash:section>slashdot</slash:section>
+<slash:comments>117</slash:comments>
+<slash:hit_parade>117,110,72,54,21,8,2</slash:hit_parade>
+<feedburner:origLink>http://slashdot.org/story/15/05/10/0133218/photobucket-hackers-nabbed-face-serious-charges-from-us-authorities?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/05/10/0120222/transformer-explosion-closes-nuclear-plant-unit-north-of-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Transformer Explosion Closes Nuclear Plant Unit North of NYC</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/iYTAg9xm220/transformer-explosion-closes-nuclear-plant-unit-north-of-nyc</link>
+<description>Reuters reports that a transformer failure and related fire have forced the closure of a generating unit of the Indian Point nuclear plant, about 40 miles north of New York City; another generator at the same facility was unaffected. Witnesses reported seeing an explosion, as well as (according to NBC News) a "huge ball of black smoke" when the transformer exploded, which led to the shut-down of the site's Unit 3. The Reuters article says the plant "has long been controversial because of its proximity to the United States' largest city.
+
+Indian Point is one of 99 nuclear power plants licensed to operate in the United States and which generate about 20 percent of U.S. electricity use, according to the U.S. Nuclear Regulatory Commission website.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Transformer+Explosion+Closes+Nuclear+Plant+Unit+North+of+NYC%3A+http%3A%2F%2Fbit.ly%2F1EYFaFi"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F05%2F10%2F0120222%2Ftransformer-explosion-closes-nuclear-plant-unit-north-of-nyc%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/05/10/0120222/transformer-explosion-closes-nuclear-plant-unit-north-of-nyc?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/05/10/0120222/transformer-explosion-closes-nuclear-plant-unit-north-of-nyc?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7393855&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/iYTAg9xm220" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-10T01:27:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>could-happen-to-anyone</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>174</slash:comments>
+<slash:hit_parade>174,162,122,109,46,29,21</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/05/10/0120222/transformer-explosion-closes-nuclear-plant-unit-north-of-nyc?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/05/09/2330249/texas-regulators-crack-down-on-app-driven-hauling-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Texas Regulators Crack Down on App-Driven Hauling Service</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/q1SPUJ8Lvlk/texas-regulators-crack-down-on-app-driven-hauling-service</link>
+<description>According to the Austin American-Statesman, it's not just ride-sharing companies like Uber drawing attention from regulators, at least in Texas, but also a similar service that's hauling goods rather than people. In a letter demanding that Austin-based Burro cease its phone-coordinated delivery service, Texas Department of Motor Vehicles
+director of enforcement William P. Harbeson says that "[a]nyone moving household goods in a pick-up truck or other type or size of vehicle for hire is required to register" with the Department, "and show proof of insurance in the amounts required by law." According to the letter, this includes not just professional or even regular haulers, but also people moving a piece of furniture bought at a garage sale for pay; considering the number of people offering that kind of service on Austin's Craigslist, or in the parking lot of home supply stores like Home Depot, it seems like a regulation that will put a dent in the wallet of quite a few people. Burro, for its part, says its providers "are backed by $1M in insurance" &amp;mdash; more than can be said for one of the obvious substitutes, which is relying on friends or acquaintances with a roof-rack and some bungie cords.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Texas+Regulators+Crack+Down+on+App-Driven+Hauling+Service%3A+http%3A%2F%2Fbit.ly%2F1IoZeol"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F05%2F09%2F2330249%2Ftexas-regulators-crack-down-on-app-driven-hauling-service%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/05/09/2330249/texas-regulators-crack-down-on-app-driven-hauling-service?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/05/09/2330249/texas-regulators-crack-down-on-app-driven-hauling-service?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7393781&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/q1SPUJ8Lvlk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-09T23:26:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>who-exactly-is-being-protected?</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>139</slash:comments>
+<slash:hit_parade>139,138,105,92,18,4,3</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/05/09/2330249/texas-regulators-crack-down-on-app-driven-hauling-service?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/05/09/229228/who-declares-liberian-ebola-outbreak-over?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>WHO Declares Liberian Ebola Outbreak Over</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/wTYXroXxwG0/who-declares-liberian-ebola-outbreak-over</link>
+<description>The Washington Post reports that after 42 days with no new cases of Ebola infection in Liberia, the World Health Organization has declared over the outbreak which killed more than 4,000 people in that country; 42 days means twice the known maximum incubation period for the disease, though scientists' understanding of the virus's persistence continues to evolve. From the WHO's statement: Health officials have maintained a high level of vigilance for new cases. During April, the country&amp;rsquo;s 5 dedicated Ebola laboratories tested around 300 samples every week. All test results were negative. 
+
+While WHO is confident that Liberia has interrupted transmission, outbreaks persist in neighbouring Guinea and Sierra Leone, creating a high risk that infected people may cross into Liberia over the region&amp;rsquo;s exceptionally porous borders.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=WHO+Declares+Liberian+Ebola+Outbreak+Over%3A+http%3A%2F%2Fbit.ly%2F1P9giCP"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F05%2F09%2F229228%2Fwho-declares-liberian-ebola-outbreak-over%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/05/09/229228/who-declares-liberian-ebola-outbreak-over?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/05/09/229228/who-declares-liberian-ebola-outbreak-over?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7393731&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/wTYXroXxwG0" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-09T22:10:00+00:00</dc:date>
+<dc:subject>medicine</dc:subject>
+<slash:department>when-better-news-is-good-news</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>37</slash:comments>
+<slash:hit_parade>37,35,21,21,4,2,2</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/05/09/229228/who-declares-liberian-ebola-outbreak-over?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://ask.slashdot.org/story/15/05/09/2036259/ask-slashdot-moving-to-an-offshore-proof-career?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Ask Slashdot: Moving To an Offshore-Proof Career?</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yva6s6yiVZM/ask-slashdot-moving-to-an-offshore-proof-career</link>
+<description>New submitter sundarvenkata writes: I am sure most slashdotters (including the ones who had the I-am-an-indispensable-snowflake stance in the past) have already foreseen the writing on the wall for the future of tech professions (with IT being the worst hit) given some of the ominous news in the past few years: here, here and here. Of course, there are always the counter-arguments put forth by slashdotters that "knowing the business" or "being the best in what you do" would save one's derriere as if the offshore workers will remain permanently impaired of such skills. But I was wondering if some slashdotters could share some constructive real-life experiences of planning a transition to a relatively offshore-proof career. If you have already managed to accomplish such a career change, what was your journey and what would your advice be to other aspirants?&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Ask+Slashdot%3A+Moving+To+an+Offshore-Proof+Career%3F%3A+http%3A%2F%2Fbit.ly%2F1J08Jcs"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fask.slashdot.org%2Fstory%2F15%2F05%2F09%2F2036259%2Fask-slashdot-moving-to-an-offshore-proof-career%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://ask.slashdot.org/story/15/05/09/2036259/ask-slashdot-moving-to-an-offshore-proof-career?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://ask.slashdot.org/story/15/05/09/2036259/ask-slashdot-moving-to-an-offshore-proof-career?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7393667&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="http://feeds.feedburner.com/~r/Slashdot/slashdot/~4/yva6s6yiVZM" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>timothy</dc:creator>
+<dc:date>2015-05-09T20:49:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>alle-menschen-sind-auslaender-fast-ueberall</slash:department>
+<slash:section>askslashdot</slash:section>
+<slash:comments>366</slash:comments>
+<slash:hit_parade>366,365,246,202,41,22,11</slash:hit_parade>
+<feedburner:origLink>http://ask.slashdot.org/story/15/05/09/2036259/ask-slashdot-moving-to-an-offshore-proof-career?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
